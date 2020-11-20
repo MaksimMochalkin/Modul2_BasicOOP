@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixHierarchyTest", "MatrixHierarchyTest\MatrixHierarchyTest.csproj", "{FA736707-5F05-45DA-B6F0-94DAF584E121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA736707-5F05-45DA-B6F0-94DAF584E121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA736707-5F05-45DA-B6F0-94DAF584E121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA736707-5F05-45DA-B6F0-94DAF584E121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA736707-5F05-45DA-B6F0-94DAF584E121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4752A53-2335-4D11-9EE1-F202DBA37DF4}
+	EndGlobalSection
+EndGlobal
